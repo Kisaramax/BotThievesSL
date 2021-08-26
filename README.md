@@ -1,4 +1,4 @@
-###      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+###      Bot Thieves SL ලංකාවේ🇱🇰 සිංහල බොටෙක්
 
 
 <div align="center">
@@ -6,7 +6,7 @@
   <p align="center">
 
     
-       | © | Reserved |
+       | © | Reserved |Ravana SL
     
     
 ### ⚠️ Warning! 
@@ -25,9 +25,9 @@ Click WA logo to Join Support Group 👇
        
   </div>
   
-  ## RAVANA bot විශේෂාංග
-RAVANA bot විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/RAVANA-SL/64b891a432607ba67e55c44f234fbd8f">
+  ## Bot Thieves bot විශේෂාංග
+Bot Thieves bot විශේෂාංග මෙන්න.
+<a href="https://gist.github.com/Bot Thieves-SL/64b891a432607ba67e55c44f234fbd8f">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
@@ -36,9 +36,9 @@ RAVANA bot විශේෂාංග මෙන්න.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RAVANASL/indexjs#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KisaraBro/indexjs?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kisaramax/BotThievesSL)
      </div>
 ### ⚠️ Warning! 
 ```
